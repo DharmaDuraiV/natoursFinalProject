@@ -1,0 +1,6 @@
+What is Nodejs ? 
+ Nodejs is a javascript runtime environment .
+ Nodejs is built on google chrome open-source v8 javascript Engine
+
+What is  runtime environment ? 
+ 
